@@ -16,3 +16,5 @@ Literally me
 ### Contact
 
 You can email me at julia@satdump.org
+
+[OpenPGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/EFE8F9675AA5F4911878E75BA27C7C4BF985A59E)
